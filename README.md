@@ -1,6 +1,6 @@
 # Speech-Stimuli
 
-The PNG files in the Contours folder contain visual pitch contour curves corresponding to voice recordings of trisyllabic nonsense words. The voice recordings were downloaded from a stimulus database developed by Gupta et al. (2004). Using Praat software (Boersma & Weenink, 2020), the pitch contour was extracted from each voice recording via autocorrelation and smoothed to generate the resulting images.
+The Contours folder contains .png files of pitch contours. Each file corresponds to a voice recording of a trisyllabic nonsense word from a stimulus database developed by Gupta et al. (2004). To generate the pitch contours, Praat software (Boersma & Weenink, 2020) was used to extract the pitch contour from each voice recording via autocorrelation. The result was then smoothed and saved as an image.
 
 References:
 
